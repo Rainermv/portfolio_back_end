@@ -8,7 +8,7 @@ var PostsSchema = new Schema({
   title: String,
   body: String,
   key: String,
-  gallery: Boolean,
+  gallery: Number,
 
 });
 
